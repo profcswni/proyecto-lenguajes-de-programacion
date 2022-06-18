@@ -5,3 +5,9 @@
 - Carlos Andres Perez Ubeda
 - 85371146
 - prof.cperezu@uml.edu.ni
+
+---
+
+```
+console.log("Hola, Mundo")
+```
